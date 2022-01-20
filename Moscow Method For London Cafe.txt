@@ -1,0 +1,33 @@
+Must have
+
+- Coffee machine(s)
+- Supplier of Coffee Beans
+- Customers
+- A shop
+- Staff (Barista, shift manager, floor manager)
+- Health and Safe regulations and checks
+- Business License
+- Payment processing system
+
+
+Should Have
+
+- Card payment machine
+- Working space/seating area
+- Good interior decor/designs
+- Loyalty card scheme
+
+Could Have
+
+- Prime location (next to an office, high streets, shopping mall)
+- Menu Variety (cakes, crossiants, pastries)
+- Sound system/live band, setting tone, entertainment value (poetry, open mics) 
+
+
+Won't Have
+
+- No pets/animals allowed in the cafe
+- No alcohol served in the cafe
+- No multiple floor building
+- Long opening hours
+- No app facility
